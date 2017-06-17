@@ -1,0 +1,16 @@
+{
+  "name": "fitbot",
+  "version": "1.0.0",
+  "description": "fitbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HW",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "botbuilder-location": "^2.0.0",
+    "restify": "^4.3.0"
+  }
+}
